@@ -1,17 +1,16 @@
-This is the code base for the React app for my [Full Stack React & Firebase series](https://www.youtube.com/watch?v=RkBfu-W7tt0&list=PLMhAeHCz8S38ryyeMiBPPUnFAiWnoPvWP)
+This is the code base for the React app which is a twitter clone. The Backend is built using an public api which helps in functionality like posting a tweet, sending notifs, uploading profile pictures etc.
 
-## 1: API Base URL
+Technologies used - 
+React, Redux, NoSQL, Node.js(Express.js), Material-UI library and many other smaller libraries
 
-Add https://europe-west1-socialape-d081e.cloudfunctions.net/api as the 'proxy' value in package.json
+## 1: Install packages
 
-## 2: Install packages
+run `npm install`
 
-run `npm instll`
-
-## 3: Run project
+## 2: Run project
 
 run `npm start`
 
-## 4: Open it
+## 3: Open it
 
 go to [http://localhost:3000](http://localhost:3000)
