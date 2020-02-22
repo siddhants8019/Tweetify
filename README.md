@@ -1,7 +1,7 @@
-This is the code base for the React app which is a twitter clone. The Backend is built using an public api which helps in functionality like posting a tweet, sending notifs, uploading profile pictures etc.
+This is the code base for the Tweetify React app which is simply a twitter clone that I have built. The Backend is built using an public api which helps in functionality like posting a tweet, sending notifs, uploading profile pictures etc.
 
 Technologies used - 
-React, Redux, NoSQL, Node.js(Express.js), Material-UI library and many other smaller libraries
+React, Redux, NoSQL, Node.js(Express.js), Material-UI library and many other smaller libraries.
 
 ## 1: Install packages
 
